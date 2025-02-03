@@ -94,14 +94,14 @@
             <coinGrp count="2">
                <nuds:typeDesc/>
                <nuds:refDesc>
-                  <nuds:reference xlink:type="simple" xlink:arcole="nmo:hasTypeSeriesItem"
+                  <nuds:reference xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem"
                                   xlink:href="https://www.corpus-nummorum.eu/parenttypes/271">CN Type 271</nuds:reference>
                </nuds:refDesc>
             </coinGrp>
             <coin>
                <nuds:typeDesc/>
                <nuds:refDesc>
-                  <nuds:reference xlink:type="simple" xlink:arcole="nmo:hasTypeSeriesItem"
+                  <nuds:reference xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem"
                                   xlink:href="https://www.corpus-nummorum.eu/parenttypes/273">CN Type 273</nuds:reference>
                </nuds:refDesc>
             </coin>

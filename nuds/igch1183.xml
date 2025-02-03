@@ -93,7 +93,7 @@
                   </nuds:reverse>
                </nuds:typeDesc>
                <nuds:refDesc>
-                  <nuds:reference xlink:type="simple" xlink:arcole="nmo:hasTypeSeriesItem"
+                  <nuds:reference xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem"
                                   xlink:href="https://www.corpus-nummorum.eu/types/11243">CN Type 11243</nuds:reference>
                </nuds:refDesc>
             </coin>
@@ -121,7 +121,7 @@
                   </nuds:reverse>
                </nuds:typeDesc>
                <nuds:refDesc>
-                  <nuds:reference xlink:type="simple" xlink:arcole="nmo:hasTypeSeriesItem"
+                  <nuds:reference xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem"
                                   xlink:href="https://www.corpus-nummorum.eu/types/20593">CN Type 20593</nuds:reference>
                </nuds:refDesc>
             </coinGrp>

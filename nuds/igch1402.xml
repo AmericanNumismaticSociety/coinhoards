@@ -95,7 +95,7 @@
                   </nuds:reverse>
                </nuds:typeDesc>
                <nuds:refDesc>
-                  <nuds:reference xlink:type="simple" xlink:arcole="nmo:hasTypeSeriesItem"
+                  <nuds:reference xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem"
                                   xlink:href="https://www.corpus-nummorum.eu/types/12079">CN Type 12079</nuds:reference>
                </nuds:refDesc>
             </coin>

@@ -301,7 +301,7 @@
                   </nuds:reverse>
                </nuds:typeDesc>
                <nuds:refDesc>
-                  <nuds:reference xlink:type="simple" xlink:arcole="nmo:hasTypeSeriesItem"
+                  <nuds:reference xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem"
                                   xlink:href="https://www.corpus-nummorum.eu/types/12250">CN Type 12250</nuds:reference>
                </nuds:refDesc>
             </coin>
@@ -463,7 +463,7 @@
                   </nuds:reverse>
                </nuds:typeDesc>
                <nuds:refDesc>
-                  <nuds:reference xlink:type="simple" xlink:arcole="nmo:hasTypeSeriesItem"
+                  <nuds:reference xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem"
                                   xlink:href="https://www.corpus-nummorum.eu/types/21545">CN Type 21545</nuds:reference>
                </nuds:refDesc>
             </coin>
@@ -491,7 +491,7 @@
                   </nuds:reverse>
                </nuds:typeDesc>
                <nuds:refDesc>
-                  <nuds:reference xlink:type="simple" xlink:arcole="nmo:hasTypeSeriesItem"
+                  <nuds:reference xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem"
                                   xlink:href="https://www.corpus-nummorum.eu/types/cn.byzantium.1_ed.112">CN Type cn.byzantium.1_ed.112</nuds:reference>
                </nuds:refDesc>
             </coin>
@@ -502,14 +502,14 @@
             <coin>
                <nuds:typeDesc/>
                <nuds:refDesc>
-                  <nuds:reference xlink:type="simple" xlink:arcole="nmo:hasTypeSeriesItem"
+                  <nuds:reference xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem"
                                   xlink:href="https://www.corpus-nummorum.eu/parenttypes/272">CN Type 272</nuds:reference>
                </nuds:refDesc>
             </coin>
             <coin>
                <nuds:typeDesc/>
                <nuds:refDesc>
-                  <nuds:reference xlink:type="simple" xlink:arcole="nmo:hasTypeSeriesItem"
+                  <nuds:reference xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem"
                                   xlink:href="https://www.corpus-nummorum.eu/parenttypes/271">CN Type 271</nuds:reference>
                </nuds:refDesc>
             </coin>

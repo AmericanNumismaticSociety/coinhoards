@@ -589,7 +589,7 @@
             <coinGrp count="2">
                <nuds:typeDesc/>
                <nuds:refDesc>
-                  <nuds:reference xlink:type="simple" xlink:arcole="nmo:hasTypeSeriesItem"
+                  <nuds:reference xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem"
                                   xlink:href="https://www.corpus-nummorum.eu/parenttypes/274">CN Type 274</nuds:reference>
                </nuds:refDesc>
             </coinGrp>

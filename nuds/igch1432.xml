@@ -107,7 +107,7 @@
                   </nuds:reverse>
                </nuds:typeDesc>
                <nuds:refDesc>
-                  <nuds:reference xlink:type="simple" xlink:arcole="nmo:hasTypeSeriesItem"
+                  <nuds:reference xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem"
                                   xlink:href="https://www.corpus-nummorum.eu/types/cn.byzantium.1_ed.174">CN Type cn.byzantium.1_ed.174</nuds:reference>
                </nuds:refDesc>
             </coin>

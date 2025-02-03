@@ -166,7 +166,7 @@
                   </nuds:reverse>
                </nuds:typeDesc>
                <nuds:refDesc>
-                  <nuds:reference xlink:type="simple" xlink:arcole="nmo:hasTypeSeriesItem"
+                  <nuds:reference xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem"
                                   xlink:href="https://www.corpus-nummorum.eu/types/cn.byzantium.1_ed.142">CN Type cn.byzantium.1_ed.142</nuds:reference>
                </nuds:refDesc>
             </coin>
@@ -194,7 +194,7 @@
                   </nuds:reverse>
                </nuds:typeDesc>
                <nuds:refDesc>
-                  <nuds:reference xlink:type="simple" xlink:arcole="nmo:hasTypeSeriesItem"
+                  <nuds:reference xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem"
                                   xlink:href="https://www.corpus-nummorum.eu/types/cn.byzantium.1_ed.136">CN Type cn.byzantium.1_ed.136</nuds:reference>
                </nuds:refDesc>
             </coin>
@@ -225,28 +225,28 @@
             <coin>
                <nuds:typeDesc/>
                <nuds:refDesc>
-                  <nuds:reference xlink:type="simple" xlink:arcole="nmo:hasTypeSeriesItem"
+                  <nuds:reference xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem"
                                   xlink:href="https://www.corpus-nummorum.eu/parenttypes/269">CN Type 269</nuds:reference>
                </nuds:refDesc>
             </coin>
             <coinGrp count="27" certainty="http://nomisma.org/id/uncertain_value">
                <nuds:typeDesc/>
                <nuds:refDesc>
-                  <nuds:reference xlink:type="simple" xlink:arcole="nmo:hasTypeSeriesItem"
+                  <nuds:reference xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem"
                                   xlink:href="https://www.corpus-nummorum.eu/parenttypes/271">CN Type 271</nuds:reference>
                </nuds:refDesc>
             </coinGrp>
             <coinGrp certainty="http://nomisma.org/id/uncertain_value">
                <nuds:typeDesc/>
                <nuds:refDesc>
-                  <nuds:reference xlink:type="simple" xlink:arcole="nmo:hasTypeSeriesItem"
+                  <nuds:reference xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem"
                                   xlink:href="https://www.corpus-nummorum.eu/parenttypes/272">CN Type 272</nuds:reference>
                </nuds:refDesc>
             </coinGrp>
             <coinGrp certainty="http://nomisma.org/id/uncertain_value">
                <nuds:typeDesc/>
                <nuds:refDesc>
-                  <nuds:reference xlink:type="simple" xlink:arcole="nmo:hasTypeSeriesItem"
+                  <nuds:reference xlink:type="simple" xlink:arcrole="nmo:hasTypeSeriesItem"
                                   xlink:href="https://www.corpus-nummorum.eu/parenttypes/273">CN Type 273</nuds:reference>
                </nuds:refDesc>
             </coinGrp>
