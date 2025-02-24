@@ -6,7 +6,8 @@
            xmlns:xlink="http://www.w3.org/1999/xlink">
    <control>
       <recordId>igch1263</recordId>
-      <otherRecordId semantic="skos:exactMatch">http://coinhoards.org/id/change.0148 change.0371</otherRecordId>
+      <otherRecordId semantic="skos:exactMatch">http://coinhoards.org/id/change.0148</otherRecordId>
+      <otherRecordId semantic="skos:exactMatch">http://coinhoards.org/id/change.0371</otherRecordId>
       <maintenanceStatus>derived</maintenanceStatus>
       <publicationStatus>approved</publicationStatus>
       <maintenanceAgency>
@@ -183,7 +184,9 @@
       <refDesc>
          <reference>BMCCyprus, p. xviii</reference>
          <reference xlink:type="simple"
-                    xlink:href="http://coinhoards.org/id/change.0148 change.0371">CHANGE NaN</reference>
+                    xlink:href="http://coinhoards.org/id/change.0148">CHANGE 148</reference>
+         <reference xlink:type="simple"
+            xlink:href="http://coinhoards.org/id/change.0371">CHANGE 371</reference>
       </refDesc>
    </descMeta>
 </nudsHoard>

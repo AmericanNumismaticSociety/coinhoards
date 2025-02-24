@@ -6,7 +6,8 @@
            xmlns:xlink="http://www.w3.org/1999/xlink">
    <control>
       <recordId>igch0409</recordId>
-      <otherRecordId semantic="skos:exactMatch">http://coinhoards.org/id/change.0178 change.0301</otherRecordId>
+      <otherRecordId semantic="skos:exactMatch">http://coinhoards.org/id/change.0178</otherRecordId>
+      <otherRecordId semantic="skos:exactMatch">http://coinhoards.org/id/change.0301</otherRecordId>
       <maintenanceStatus>derived</maintenanceStatus>
       <publicationStatus>approved</publicationStatus>
       <maintenanceAgency>
@@ -117,7 +118,9 @@
       </contentsDesc>
       <refDesc>
          <reference xlink:type="simple"
-                    xlink:href="http://coinhoards.org/id/change.0178 change.0301">CHANGE 0178 CHANGE 0301</reference>
+                    xlink:href="http://coinhoards.org/id/change.0178">CHANGE 0178</reference>
+         <reference xlink:type="simple"
+            xlink:href="http://coinhoards.org/id/change.0301">CHANGE 0301</reference>
       </refDesc>
    </descMeta>
 </nudsHoard>

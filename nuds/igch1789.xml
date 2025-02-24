@@ -6,7 +6,8 @@
            xmlns:xlink="http://www.w3.org/1999/xlink">
    <control>
       <recordId>igch1789</recordId>
-      <otherRecordId semantic="skos:exactMatch">http://coinhoards.org/id/change.0346 change.0498</otherRecordId>
+      <otherRecordId semantic="skos:exactMatch">http://coinhoards.org/id/change.0346</otherRecordId>
+      <otherRecordId semantic="skos:exactMatch">http://coinhoards.org/id/change.0498</otherRecordId>
       <maintenanceStatus>derived</maintenanceStatus>
       <publicationStatus>approved</publicationStatus>
       <maintenanceAgency>
@@ -169,7 +170,9 @@
          <reference>Schlumberger, L'argent grec, p. 11, no. 43</reference>
          <reference>Schmidt, Persepolis 2 (Chicago, 1957), pp. 110, 113-4, illus.</reference>
          <reference xlink:type="simple"
-                    xlink:href="http://coinhoards.org/id/change.0346 change.0498">CHANGE NaN</reference>
+                    xlink:href="http://coinhoards.org/id/change.0346">CHANGE 346</reference>
+         <reference xlink:type="simple"
+            xlink:href="http://coinhoards.org/id/change.0498">CHANGE 498</reference>
       </refDesc>
    </descMeta>
 </nudsHoard>
